@@ -43,3 +43,5 @@ Foi usado a biblioteca Bull para fazer a criação e gerenciamento da fila.
 * Verifique seu maiotrap.
 
 <img src="./src/assets/images/screen-insomnia.png" >
+
+*Baseado no [neste video](https://www.youtube.com/watch?v=uonKHztGhko) da Rocketseat*
